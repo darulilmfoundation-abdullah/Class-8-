@@ -1,4 +1,4 @@
-# Grade 8 Python Practical Syllabus
+# Class 8 Python Practical Syllabus
 
 This course is **practice-based**. Each lesson has a Python file with sample code.  
 Students run and modify code to learn Python step by step.
